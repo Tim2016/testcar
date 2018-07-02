@@ -1,0 +1,98 @@
+.hide-content{
+    display: none!important;
+} 
+
+.checkbox label::before{
+   top: 5px;
+}
+
+.filter-tag{
+    background-color: #fd6502 !important;
+    border: 1px solid #fd6502;
+    color: #fff;
+    padding: 3px 10px;
+    margin-left: 3px;
+    display: inline-block;
+}
+
+.searchy-search-form .bootstrap-select > .dropdown-toggle,
+.searchy-search-form .form-control {
+    padding-right: 25px;
+    width: 100%;
+    z-index: 1;
+    box-shadow: none;
+    font-weight: 400;
+    font-style: 14px !important;
+    color: #7c7c7c !important;
+    background: transparent !important;
+    border-color: #999999 !important;
+    border-radius: 0 !important;
+}
+			
+/* Shore more styles */
+.showmore_content		{ position:relative; overflow:hidden;}			
+.showmore_trigger 		{ width:100%; height:auto; line-height:45px; cursor:pointer; }
+.showmore_trigger span	{ display:block; }
+
+.custom-sidebar {
+    font-family:Montserrat-regular;
+}
+
+.custom-sidebar .form-group > label:first-child{
+    margin-top:0px;
+}
+
+.custom-sidebar .form-group > label{
+    color:#212121;
+    font-family:Montserrat-bold;
+    text-transform:uppercase;
+    margin-top:20px;
+}
+
+.custom-sidebar .form-group > label span{
+    color:#e34735;
+    margin-right:5px;
+}
+
+body .custom-sidebar input.form-control,
+body .custom-sidebar select.form-control {
+    border:1px solid #ccc !important;
+}
+
+.searchy-search-form .bootstrap-select > .dropdown-toggle, .searchy-search-form .form-control {
+    padding-right: 25px;
+    width: 100%;
+    z-index: 1;
+    box-shadow: none;
+    font-weight: 400;
+    font-style: 14px !important;
+    color: #7c7c7c !important;
+    background: transparent !important;
+    border-color: #ccc !important;
+    border-radius: 0 !important;
+}
+
+*, div, input, button {
+    outline:none !important;
+}
+
+.checkbox input[type="checkbox"]:checked + label::after,
+.checkbox input[type="radio"]:checked + label::after {
+    color: #e34735;
+}
+
+body .price_slider_wrapper .ui-slider-handle,
+body #price-slider-range .ui-slider-handle,
+body #hoursepower-slider-range .ui-slider-handle,
+body #mileage-slider-range .ui-slider-handle {
+    top: -5px;
+    width: 13px;
+    height: 13px;
+    background: #e34735;
+    border-radius: 50%;
+    border: 1px solid #cd4333;
+}
+
+.searchy-search-form .form-input label{
+    color: #999999;
+}

@@ -1,0 +1,94 @@
+<path xmlns="http://www.w3.org/2000/svg" id="path240" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 4539.98,9706.69 -146.11,0 c 0.11,3.02 0.22,6.04 0.22,9.1 0,145.6 -118.45,264.05 -264.04,264.05 -50.1,0 -96.97,-14.02 -136.91,-38.33 l 0,298.59 442.4,-91.9 0,-266.16 c 0,-15.93 9.42,-30.36 24.02,-36.74 l 80.42,-35.17 0,-103.44 z M 4130.05,9531.9 c -101.39,0 -183.89,82.49 -183.89,183.89 0,101.37 82.5,183.86 183.89,183.86 101.38,0 183.85,-82.49 183.85,-183.86 0,-101.4 -82.47,-183.89 -183.85,-183.89 z m -615.14,174.79 0,135.25 383.2,0 c -20.48,-37.51 -32.15,-80.49 -32.15,-126.15 0,-3.06 0.14,-6.08 0.24,-9.1 l -351.29,0 z m -192.4,542.61 112.24,0 0,-327.17 -112.24,0 0,327.17 z m 0,328.9 c 0,24 19.54,43.5 43.57,43.5 l 64.49,0 0,-292.2 -108.06,0 0,248.7 z m 192.4,43.5 259.99,0 118.59,-292.2 -378.58,0 0,292.2 z m 0.02,-372.4 397.99,0 0,-327.17 -397.99,0 0,327.17 z m 1081.22,-376.21 -80.42,35.18 0,272.63 c 0,19 -13.34,35.4 -31.95,39.2 l -501.66,104.2 -143.06,352.6 c -6.13,15.1 -20.83,25 -37.15,25 l -435.83,0 c -68.24,0 -123.76,-55.5 -123.76,-123.7 l 0,-696.16 c 0,-22.15 17.95,-40.1 40.09,-40.1 l 152.32,0 0,-175.35 c 0,-22.14 17.94,-40.09 40.09,-40.09 l 406.72,0 c 36.69,-101.8 134.22,-174.79 248.51,-174.79 114.27,0 211.79,72.99 248.48,174.79 l 201.55,0 c 22.14,0 40.1,17.95 40.1,40.09 l 0,169.76 c 0,15.94 -9.44,30.35 -24.03,36.74"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path242" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 4130.05,9795.97 c -44.23,0 -80.21,-35.97 -80.21,-80.18 0,-44.23 35.98,-80.21 80.21,-80.21 44.2,0 80.17,35.98 80.17,80.21 0,44.21 -35.97,80.18 -80.17,80.18"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path244" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 1986.19,9531.91 c -101.39,0 -183.88,82.48 -183.88,183.87 0,101.38 82.49,183.87 183.88,183.87 101.38,0 183.86,-82.49 183.86,-183.87 0,-101.39 -82.48,-183.87 -183.86,-183.87 z m 0,447.93 c -145.61,0 -264.07,-118.46 -264.07,-264.06 0,-145.61 118.46,-264.05 264.07,-264.05 145.61,0 264.06,118.44 264.06,264.05 0,145.6 -118.45,264.06 -264.06,264.06"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path246" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 1986.19,9795.96 c -44.21,0 -80.19,-35.97 -80.19,-80.18 0,-44.23 35.98,-80.21 80.19,-80.21 44.22,0 80.2,35.98 80.2,80.21 0,44.21 -35.98,80.18 -80.2,80.18"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path248" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 2575.07,9531.91 c -101.39,0 -183.88,82.48 -183.88,183.87 0,101.38 82.49,183.87 183.88,183.87 101.38,0 183.87,-82.49 183.87,-183.87 0,-101.39 -82.49,-183.87 -183.87,-183.87 z m 0,447.93 c -145.61,0 -264.07,-118.46 -264.07,-264.06 0,-145.61 118.46,-264.05 264.07,-264.05 145.61,0 264.06,118.44 264.06,264.05 0,145.6 -118.45,264.06 -264.06,264.06"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path250" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 2575.07,9795.96 c -44.21,0 -80.19,-35.97 -80.19,-80.18 0,-44.23 35.98,-80.21 80.19,-80.21 44.22,0 80.19,35.98 80.19,80.21 0,44.21 -35.97,80.18 -80.19,80.18"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path252" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 3703.67,10182 -84.92,0 c -22.16,0 -40.1,-18 -40.1,-40.1 0,-22.2 17.94,-40.1 40.1,-40.1 l 84.92,0 c 22.15,0 40.1,17.9 40.1,40.1 0,22.1 -17.95,40.1 -40.1,40.1"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path254" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 3206.1,9619.3 -183.63,0 c -22.25,0 -40.36,18.11 -40.36,40.36 0,22.25 18.11,40.35 40.36,40.35 l 183.63,0 c 22.25,0 40.34,-18.1 40.34,-40.35 0,-22.25 -18.09,-40.36 -40.34,-40.36 z m 0,160.9 -183.63,0 c -66.47,0 -120.56,-54.08 -120.56,-120.54 0,-66.47 54.09,-120.55 120.56,-120.55 l 183.63,0 c 66.46,0 120.54,54.08 120.54,120.55 0,66.46 -54.08,120.54 -120.54,120.54"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path256" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 1577.54,10600.3 1180.06,0 c 12.07,0 23.51,5.5 31.12,14.8 l 175.08,215.7 136.28,0 0,-708.2 -1262.54,0 -260,146.4 0,331.3 z m 249.48,-557.9 1313.16,0 c 22.14,0 40.1,18 40.1,40.1 l 0,788.4 c 0,22.1 -17.96,40 -40.1,40 l -195.47,0 c -12.08,0 -23.51,-5.4 -31.12,-14.8 l -175.08,-215.6 -1201.08,0 c -22.14,0 -40.08,-17.9 -40.08,-40.1 l 0,-394.8 c 0,-14.5 7.8,-27.9 20.43,-35 l 289.58,-163 c 6,-3.4 12.78,-5.2 19.66,-5.2"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path258" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 1923.22,10216.7 c 7.43,-6 16.37,-8.9 25.24,-8.9 11.67,0 23.24,5 31.15,14.8 l 187.12,230.4 c 13.97,17.2 11.34,42.4 -5.85,56.4 -17.19,14 -42.44,11.3 -56.4,-5.8 l -187.12,-230.5 c -13.96,-17.2 -11.34,-42.4 5.86,-56.4"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path260" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 2176.65,10216.7 c 7.43,-6 16.37,-8.9 25.24,-8.9 11.66,0 23.24,5 31.16,14.8 l 187.11,230.4 c 13.97,17.2 11.34,42.4 -5.85,56.4 -17.2,14 -42.45,11.3 -56.4,-5.8 l -187.12,-230.5 c -13.96,-17.2 -11.34,-42.4 5.86,-56.4"/>
+<path xmlns="http://www.w3.org/2000/svg" id="path262" style="fill:#464648;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 2430.09,10216.7 c 7.43,-6 16.37,-8.9 25.24,-8.9 11.67,0 23.24,5 31.16,14.8 l 187.11,230.4 c 13.96,17.2 11.34,42.4 -5.85,56.4 -17.2,14 -42.45,11.3 -56.4,-5.8 l -187.11,-230.5 c -13.97,-17.2 -11.35,-42.4 5.85,-56.4"/>
+
+
+
+
+
+
+
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/09/2016 07:17
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-arrows:before { content: "\f100"; }
+.flaticon-arrows-1:before { content: "\f101"; }
+.flaticon-car:before { content: "\f102"; }
+.flaticon-clock:before { content: "\f103"; }
+.flaticon-customer-service:before { content: "\f104"; }
+.flaticon-disc-brake:before { content: "\f105"; }
+.flaticon-dress-on-a-hanger:before { content: "\f106"; }
+.flaticon-grid:before { content: "\f107"; }
+.flaticon-hands:before { content: "\f108"; }
+.flaticon-home:before { content: "\f109"; }
+.flaticon-hose:before { content: "\f10a"; }
+.flaticon-icon-818:before { content: "\f10b"; }
+.flaticon-interface:before { content: "\f10c"; }
+.flaticon-link:before { content: "\f10d"; }
+.flaticon-list:before { content: "\f10e"; }
+.flaticon-malfunction-indicador:before { content: "\f10f"; }
+.flaticon-mark:before { content: "\f110"; }
+.flaticon-oil:before { content: "\f111"; }
+.flaticon-painting-paint-roller:before { content: "\f112"; }
+.flaticon-people:before { content: "\f113"; }
+.flaticon-phone-call:before { content: "\f114"; }
+.flaticon-pin:before { content: "\f115"; }
+.flaticon-play-button:before { content: "\f116"; }
+.flaticon-profile:before { content: "\f117"; }
+.flaticon-signs:before { content: "\f118"; }
+.flaticon-social-media:before { content: "\f119"; }
+.flaticon-technology:before { content: "\f11a"; }
+.flaticon-technology-1:before { content: "\f11b"; }
+.flaticon-technology-2:before { content: "\f11c"; }
+.flaticon-timing-belt:before { content: "\f11d"; }
+.flaticon-tool:before { content: "\f11e"; }
+.flaticon-tool-1:before { content: "\f11f"; }
+.flaticon-tool-2:before { content: "\f120"; }
+.flaticon-transport:before { content: "\f121"; }
+.flaticon-transport-1:before { content: "\f122"; }
+.flaticon-transport-2:before { content: "\f123"; }
+.flaticon-transport-3:before { content: "\f124"; }
+.flaticon-transport-4:before { content: "\f125"; }
+.flaticon-transport-5:before { content: "\f126"; }
+.flaticon-transport-6:before { content: "\f127"; }
+.flaticon-transport-7:before { content: "\f128"; }
+.flaticon-transport-8:before { content: "\f129"; }
+.flaticon-truck-wheel:before { content: "\f12a"; }
+.flaticon-two:before { content: "\f12b"; }
+.flaticon-vehicle:before { content: "\f12c"; }
+.flaticon-vehicle-1:before { content: "\f12d"; }
